@@ -1,0 +1,20 @@
+this agreement shall commence on the effective date and will continue for a period of three 3 years thereafter, unless either party provides the other party with thirty 30 days prior written notice of its intent to terminate the agreement as set forth below::termination#
+The Initial Term can be extended for successive periods of one 1 year by mutual written agreement between Customer and Tier 1 Termination for Cause::termination#
+either party shall have the right to terminate this agreement for cause, if the other party breaches any material term or condition of this agreement::termination#
+either party shall have the right to terminate this Agreement, effective immediately, if the other party should become the subject of any voluntary or involuntary bankruptcy::termination#
+either party shall have the right to terminate this agreement for cause, if the other party breaches any material term or condition of this agreement and fails to cure such breach within thirty 30 days or ten 10 days in case of nonpayment or breach of article 10 following receipt of written notice from the non-breaching party::termination#
+This Agreement shall commence on the Effective Date and will continue for a period of three 3 years thereafter the “Initial Term”, unless either party provides the other party with thirty 30 days prior written notice of its intent to terminate the Agreement as set forth below::initial#
+in case of any conflict between the provisions of this agreement including the exhibits and of a purchase order, addendum including any attachments to it or any other modification or addition entered into by the parties in accordance with this section 15.1 collectively, additional agreement, the provisions of the most recent additional agreement shall take precedence::conflict#
+the initial term can be extended for successive periods of one 1 year by mutual written agreement between Customer and Tier 1::renew#
+either party shall have the right to terminate this agreement for cause, if the other party breaches any material term or condition of this agreement and fails to cure such breach within thirty 30 days or ten 10 days in case of nonpayment::termination#
+The parties may mutually agree from time to time to modify this Agreement for specific Products, Services, or Licensed Materials and such modification shall be documented in a separate, written supplement Addenda::amendment#
+Any modification or addition to this Agreement must be in writing and signed by authorized representatives of both parties.::amendment#
+Except as provided in this Section 15.8, neither party will assign this Agreement or any right or interest, or delegate any work or obligation to be performed, under this Agreement without the other party’s prior written consent, which consent shall not be unreasonably withheld.::assign#
+Either party may assign this Agreement and the rights and obligations outlined herein to an entity obtaining a majority of the stock or assets of either party, provided that the assignee agrees in writing to be bound by the terms and conditions of this Agreement.::assign#
+Either party shall have the right to terminate this Agreement, effective immediately, if the other party should become the subject of any voluntary or involuntary bankruptcy.::termination
+
+
+
+
+
+

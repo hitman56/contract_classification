@@ -1,0 +1,4 @@
+party,parties
+customer,consumer
+company
+contractor

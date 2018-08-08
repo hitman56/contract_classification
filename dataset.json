@@ -1,0 +1,874 @@
+{
+  "entities": {
+    "party": {
+      "automatically_extensible": true,
+      "data": [],
+      "use_synonyms": true
+    },
+    "snips/datetime": {}
+  },
+  "intents": {
+    "amend": {
+      "utterances": [
+        {
+          "data": [
+            {
+              "text": "The "
+            },
+            {
+              "entity": "party",
+              "slot_name": "party",
+              "text": "parties"
+            },
+            {
+              "text": " may mutually agree from time to time to modify this Agreement for specific Products, Services, or Licensed Materials and such modification shall be documented in a separate, written supplement Addenda."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Any modification or addition to this Agreement must be in writing and signed by authorized representatives of both "
+            },
+            {
+              "entity": "party",
+              "slot_name": "party",
+              "text": "parties"
+            },
+            {
+              "text": "."
+            }
+          ]
+        }
+      ]
+    },
+    "audit": {
+      "utterances": [
+        {
+          "data": [
+            {
+              "text": "AUDIT . Contractor shall maintain a true and correct set of records pertaining to any specific Work for a period of two (2) years from the date such Work is actually provided. During the two-year retention period, Company may, upon written request and during normal working hours at Contractor\u2019s Houston, Texas business offices, audit Contractor\u2019s records to verify amounts payable to Contractor for Work performed under this Agreement. Company\"s right to audit under this Article shall not extend to any of Contractor\"s confidential information, trade secrets, proprietary information, formulas, processes, payroll records, or any components of Contractor\"s fixed sums, rates or mark-ups, nor shall it extend beyond the two (2) year retention period. Company shall not use as its designee, any party or parties that derive their fee or other payment for services from the amount reclaimed by Company from Contractor under this or any other audit provision."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Company's right to audit under this Article shall not extend to any of Contractor's confidential information, trade secrets, proprietary information, formulas, processes, payroll records, or any components of Contractor's fixed sums, rates or mark-ups, nor shall it extend beyond the two 2 year retention period."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "COMPANY AUDIT RIGHTS ."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Company's Right to Audit - Contractor shall maintain a complete, correct and confidential set of records and accounts pertaining to all aspects of any applicable Work Order, including the performance by Contractor and its Subcontractors."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "In addition Company shall have the right to inspect and audit Contractor and its Subcontractors and all their records and documents to ensure compliance"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Contractor shall maintain a true and correct set of records pertaining to Work performed in compliance with any Order."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Company's right to audit under this paragraph shall not extend to any of Contractor's confidential information, trade secrets, proprietary information, formulas, processes, payroll records, or any components of Contractor's fixed sums, rates or mark-ups, nor shall it extend beyond the two (2) year Record Retention Period."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Contractor will not accept an audit request from a third party. If Company intends to use a third party to audit Contractor\u2019s records, such written request must come directly from Company to Contractor and shall include, at a minimum: the name of the auditor and specific authority delegated  proposed commencement date  the specific Work and dates to be audited, and  the full contact details for a Company representative who is authorized and available as required, until the audit closes."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "payment for services from the amount reclaimed by Company from Contractor under this or any other audit provision."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Company's right to audit under this paragraph shall not extend to any of Contractor's confidential information, trade secrets, proprietary information, formulas, processes, payroll records, or any components of Contractor's fixed sums, rates or mark-ups, nor shall it extend beyond the two (2) year Record Retention Period."
+            }
+          ]
+        }
+      ]
+    },
+    "confidential": {
+      "utterances": [
+        {
+          "data": [
+            {
+              "text": "Subject to any confidentiality obligations, Contractor may use such data internally to improve its products and services and to refine its computer models."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Confidentiality ."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Contractor agrees that it will hold in strict confidence, any results produced by it for Company\u2019s account and/or information designated by Company in writing as confidential, and it will not disclose such confidential information to any Third Party without written authorization from Company or except as required by law or legal process. Likewise,"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Company shall observe the above confidentiality obligation, insofar as it has access to and knowledge of the goods, equipment, instruments, mixtures, programs, pricing, processes, and procedures that are the property of and proprietary to Contractor."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "The above confidentiality obligations shall not apply if the information is already known to the receiving Party or its Affiliates as of the date of disclosure hereunder if such knowledge is not subject to any confidentiality obligation, is already in possession of the public or becomes available to the public other than through the act or omission of the receiving Party or the receiving Party representatives, or  is acquired independently and without any confidentiality obligation by the receiving Party or its Affiliates from a third party that has the right to disseminate such information at the time it is acquired by the receiving Party or such Affiliates, or  is developed by the receiving Party or the receiving Party\u2019s representative independently of the confidential information."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Illegal information brokering is a practice whereby certain parties approach contractors, vendors or other suppliers and offer confidential information or illicit influence to obtain business through corruption of competitive bidding processes. Contractor recognizes that Company, its"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "The mediation process is confidential, and all such confidential information will be treated as compromise and settlement information for the purposes of any applicable rules of evidence."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Confidential Information."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "The parties recognize that the nature of the Contractor\u2019s Work is such that the each party will have access to information which is of a confidential nature ."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "A receiving party hereunder agrees not to disclose to any Third Party nor use for any purpose without written authorization from the disclosing party or except as required by law or legal process, other than the performance of this Agreement, any confidential information, data or material, (regardless of the form) which is: (a) provided, disclosed or delivered to the receiving party by the disclosing party, any officer, director, employee, agent, attorney, accountant, contractor or other person or entity employed by the disclosing party in any capacity, any customer, borrower or business associate of the disclosing party or any public authority having jurisdiction over the disclosing party or any business activity conducted by the disclosing party: or (b) produced, developed, obtained or prepared by the receiving party (whether or not such information was developed in the performance of this Agreement) with respect to the disclosing party\u2019s confidential information, unless otherwise agreed by the parties under this Agreement."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Subject to any confidentiality obligations, Contractor may use such data internally to develop, refine or improve its products, services and computer models."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Contractor quotes, pricing, designs and proposals are confidential and proprietary (\u201cConfidential Information\u201d)."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Company shall hold Confidential Information in strict confidence and shall not disclose such Confidential Information to any third party without written authorization."
+            }
+          ]
+        }
+      ]
+    },
+    "debt": {
+      "utterances": [
+        {
+          "data": [
+            {
+              "text": "If Company becomes insolvent."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "makes a general assignment for the benefit of its creditors"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "applies for or consents to the appointment of a receiver, trustee, or liquidator of all or substantially all of its assets, has an involuntary petition in bankruptcy filed against it which is not dismissed within forty-five 45 days"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "fails to pay its debts and obligations as they become due"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "commits any material breach of this or any other contract between the Parties, Contractor may, without prejudice to any of its other rights, immediately terminate this Agreement without liability for termination, except as set forth in Subparagraph"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Either party shall have the right to terminate this Agreement, effective immediately, if the other party should become the subject of any voluntary or involuntary bankruptcy, receivership or other insolvency proceeding or make an assignment or other arrangement for the benefit of its creditors, and such action is not discharged or terminated within ninety 90 days."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "In the event a voluntary petition in bankruptcy or for a reorganization or for a reorganization or for  an adjudication of a party as an insolvent or an involuntary petition in bankruptcy be filed against it which is not dismissed within forty-five 45 days"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "a party makes a general assignment for the benefit of creditors, or should any proceedings be instituted by a party under any federal, state or local laws for relief of debtors, or if a receiver, trustee, or liquidator be appointed on account of a party\u2019s insolvency."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "INSOLVENCY OF A PARTY"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "No waiver by Company of any of the terms, provisions or conditions hereof shall be effective unless said waiver shall be in writing and signed by an authorized officer of Company."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "audit any and all records of Contractor to enable Company to verify the correctness and accuracy of payments to Contractor."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "In the event a voluntary petition in bankruptcy or for a reorganization or for a reorganization or for an adjudication of a party as an insolvent or an involuntary petition in bankruptcy be filed against it which is not dismissed within forty-five 45 days"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "a party makes a general assignment for the benefit of creditors, or should any proceedings be instituted by a party under any federal, state or local laws for relief of debtors,"
+            }
+          ]
+        }
+      ]
+    },
+    "dispute": {
+      "utterances": [
+        {
+          "data": [
+            {
+              "text": "dispute"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Party consents to the personal jurisdiction of the state and federal courts of Harris County and waives any objection that such courts are an inconvenient forum or venue."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "In case of any conflict between the provisions of this Agreement (including the exhibits) and of a Purchase Order, Addendum or any other modification or addition entered into by the parties in accordance with this\u00a0Section 15.1\u00a0collectively, \u201cAdditional Agreement\u201d), the provisions of the most recent Additional Agreement shall take precedence."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "DISPUTE RESOLUTION."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "In the event that a dispute arises under this Agreement, Customer and Tier 1, Inc. will attempt in good faith to promptly resolve such dispute by negotiations between senior officers of each party."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "If the dispute is not resolved within thirty 30 days of a party\u2019s written request for negotiation, such dispute may, by the mutual agreement of Customer and Tier 1, Inc., be referred to non-binding alternative dispute resolution, under rules and at a site to be mutually agreed to between the parties."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "A decision by the neutral arbitrator(s) or mediator(s) shall not be binding on the parties unless the parties agree otherwise. Notwithstanding the foregoing, nothing in this Section shall prevent either party from resorting to judicial proceedings if good faith efforts to resolve a dispute under these procedures have been unsuccessful, or interim relief from a court is needed to prevent serious or irreparable harm to one party or to others,"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "The parties consent to and shall bring action relating to any dispute the parties may have hereunder, despite any other applicable statute of limitations established under Texas law or any other state law, within one (1) year of the occurrence of such dispute."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Affiliates and Co-participants do not permit the practice of illegal information brokering or any other corruption of the contract award process. Contractor warrants and represents that it has not and will not utilize illegal information brokering in connection with the Contract. Contractor will promptly notify Company's Representative if anyone approaches Contractor for the purpose of illegal information brokering"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "If either Party breaches this provision, then such breaching Party shall pay to the other Party as agreed"
+            }
+          ]
+        }
+      ]
+    },
+    "grules": {
+      "utterances": [
+        {
+          "data": [
+            {
+              "text": "While performing Work for Company, Contractor may utilize Contractor\u2019s intellectual property and/or develop additional expertise, know-how, inventions, ideas, designs, methods, or processes which are Contractor\u2019s exclusive property and which Contractor may freely utilize in providing goods and services for itself and/or its other customers."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "During the term of this Agreement, Company shall not directly, indirectly, or through Third Parties, solicit, recruit, or induce any member of Contractor Group to leave, terminate, or otherwise end his/her association with Contractor, in order to become an employee, consultant, or representative of Company or any other entity, except with the prior written consent of Contractor."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Force Majeure\u201d shall mean acts of God, fire, floods, lightning, blizzards, tornadoes, earthquakes, ice storms, named tropical storms and hurricanes, terrorism, insurrection, revolution, piracy, war, strikes, lockouts, and labor disputes (other than those strikes, lockouts and labor disputes of the Party claiming Force Majeure which are within such Party\u2019s reasonable control and may be resolved through reasonable efforts), federal or state laws, rules and regulations of any governmental or public authorities having or asserting jurisdiction over the premises of either or both Parties, inability to procure material, industry wide shortages or soaring commodity costs, equipment, or necessary labor despite reasonable efforts, or similar causes (except financial) beyond the control of the affected Party and which, through the exercise of diligent effort, such Party cannot overcome."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "FORCE MAJEURE. Either Party will be excused from complying with the terms and conditions of this Agreement and the applicable Order to the extent of, and for as long as such Party's compliance is delayed or prevented by a Force Majeure event. A Force Majeure event will not excuse making payments pursuant to an applicable Order or other commercial writing, performing indemnity obligations, or other duties not directly limited by the Force Majeure event."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "If a Party is rendered unable, wholly or in part, by a Force Majeure event to perform, that Party will give written notice detailing such Force Majeure event to the other Party as soon as reasonably possible. If a Force Majeure event continues without interruption for ten (10) days, either Party may cancel the applicable Order by giving prompt, written cancellation notice to the other Party."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "The Convention for the International Sales of Goods shall not apply to this Agreement."
+            }
+          ]
+        }
+      ]
+    },
+    "payment": {
+      "utterances": [
+        {
+          "data": [
+            {
+              "text": "If Contractor employs a collection agency or attorneys to collect any outstanding invoice(s) or enforce its rights under this Agreement, Company agrees to pay all actual expenses of collection, all collection agency fees, and all attorneys\u2019 fees and court costs, including, but not limited to, attorneys\u2019 fees incurred in connection with litigation, mediation, arbitration, or other judicial proceedings."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "PRICE AND PAYMENT"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Price for Products,"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Prices for the Products,"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "payment"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Licensed Materials and/or Services shall be as set forth in Exhibit B to this Agreement the \u201cPrice\u201d or \u201cPrices\u201d."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Prices will not be increased by Tier 1, Inc. throughout the Intial Term of this Agreement, except for Service pricing which may be increased once each annual period upon thirty 20 days prior writen notice to Customer; provided that Tier 1, Inc. may not increase Service Prices by an amount in excess of ten percent 10 per year. 3."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "The Price and configuration of the initial system being purchased by Customer under this Agreement (the \u201cInitial System\u201d) are set forth in Customer\u2019s Purchase Order number 1505, "
+            },
+            {
+              "entity": "snips/datetime",
+              "slot_name": "date",
+              "text": "dated January 23, 2003"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Modifications to Prices ."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Payment . For the initial System being purchased by Customer payment shall be made in accordance with the following schedule: 30%* of Price shall be paid at time the Purchase Order is issued to Tier 1, Inc.; and 20%** of Price shall be invoiced upon delivery of the Product to carrier for shipment at the FOB Point; and 50% of the Price shall be invoiced on Acceptance of the Products."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Primary Insurance ."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "The indemnity obligations and insurance required from the indemnifying parties pursuant to the Contract shall be primary and noncontributory and exclusive to the extent of the parties indemnity obligations, whether or not such assumed obligations are enforceable, to any insurance which the parties to be indemnified may have obtained or may have in effect."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "If Contractor employs a collection agency or attorneys to collect any outstanding invoice or enforce its rights under this Agreement, Company agrees to pay all actual expenses of collection, all collection agency fees, and all attorneys\u2019 fees and court costs, including, but not limited to, attorneys\u2019 fees incurred in connection with litigation, mediation, arbitration, bankruptcy, or other judicial proceedings."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "payment"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Pricing and Discounts."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Price Book shall mean Contractor\u2019s price book."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Contractor may update the Price Book upon thirty 30 days notice to Company."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Unless otherwise provided, a discount, subject to adjustment in accordance with the terms herein, \u201cDiscount\u201d shall be applied to the Price Book in accordance with ."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Applicable Rates"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Commodity Cost Adjustments."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Notwithstanding any fixed pricing set forth herein, upon notice to Company, the rates and prices defined herein shall be revised :"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Contractor\u2019s pricing is based on the scope of work provided by Company"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "In addition to any applicable fuel and mileage charges specified in Price Book, fuel surcharges will be applied and indicated as a line item on each job ticket."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "The surcharges will be adjusted on a monthly basis using the previous month average price from the US Energy Information Administration (EIA)."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "The fuel surcharge will be based on the price of US Retail On-Highway Diesel in the region the work is performed"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Standby rates will be charged in accordance with the Price Book and are not subject to a Discount."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Contractor reserves the right to increase standby rates if standby time exceeds"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "standby rate is increased by a factor of hour"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "cost of equipment"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Price Book"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "discount."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Company shall reimburse Contractor at documented cost plus a minimum, non-discountable  surcharge for administration."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Third Party Reimbursables will apply regardless of actual utilization by Company."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Restocking Charge."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Company shall pay Contractor a restocking charge for all unused equipment and materials at of the book price,"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "return transportation, roundtrip mileage for equipment necessary to unload material and personnel hours."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Any applicable mobilization and demobilization fee"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Early Pay Discount. Early payment discount of will be given per invoice if paid in full within days of the invoice date."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "A credit for the early payment discount will be issued to Company in the month following the receipt of payment."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Subject to the payment terms"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Company agrees to pay interest on any late payments equal to the prime rate ."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Offering Early Pay Discounts to clients that make reasonably timely payments may unnecessarily erode margins.  Early pay discount should also be balanced by late payment fees."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "All pricing is on a per stage basis and will be charged according to hours pumped"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "charges"
+            }
+          ]
+        }
+      ]
+    },
+    "termination": {
+      "utterances": [
+        {
+          "data": [
+            {
+              "text": "this agreement shall commence on the effective date and will continue for a period of three 3 years thereafter, unless either party provides the other party with thirty 30 days prior written notice of its intent to terminate the agreement as set forth below."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "The Initial Term can be extended for successive periods of one 1 year by mutual written agreement between Customer and Tier 1 Termination for Cause."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "either party shall have the right to terminate this agreement for cause, if the other party breaches any material term or condition of this agreement."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "either party shall have the right to terminate this agreement for cause, if the other party breaches any material term or condition of this agreement and fails to cure such breach within thirty 30 days or ten 10 days in case of nonpayment"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "TERMINATION."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Mutual Termination."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "This Agreement shall remain in force and effect until terminated by either Party by giving the other Party thirty (30) days\" notice in writing in accordance with Article 10 herein."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Notwithstanding any notice of such termination by the Parties, with respect to any existing Order, the Agreement shall remain in full force and effect until the Order is completed or terminated."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Any such termination shall not relieve either Party of its obligations arising from or incident to obligations incurred under this Agreement prior to the time such termination becomes effective. B. Contractor Termination."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Contractor shall be entitled to terminate this Agreement as follows."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "If Company becomes insolvent, makes a general assignment for the benefit of its creditors, applies for or consents to the appointment of a receiver, trustee, or liquidator of all or substantially all of its assets, has an involuntary petition in bankruptcy filed against it which is not dismissed within forty-five 45 days, fails to pay its debts and obligations as they become due, commits any material breach of this or any other contract between the Parties, Contractor may, without prejudice to any of its other rights, immediately terminate this Agreement without liability for termination, except as set forth in Subparagraph"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "In the event of the termination of this Agreement, however arising, Company shall promptly return to Contractor all of Contractor\u2018s equipment (including any leased/rented equipment and/or product) that is in Company\u2019s possession or under its control."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Any termination of this Agreement shall be without prejudice to the accrued rights of the Parties existing on the date of such termination, and the continuation in force of all provisions of this Agreement."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "This Agreement shall commence on the Effective Date and will continue for a period of three (3) years thereafter (the \u201cInitial Term\u201d), unless either party provides the other party with thirty (30) days prior written notice of its intent to terminate the Agreement as set forth below."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Termination for Cause."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Either party shall have the right to terminate this Agreement for cause, if the other party breaches any material term or condition of this Agreement and fails to cure such breach within thirty (30) days (or ten (10) days in case of nonpayment or breach of\u00a0Article 10) following receipt of written notice from the non-breaching party"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "In the event Company terminates this Contract for any reason, Company shall also pay any costs incurred as a direct result of such termination (including any early termination fees payable to Contractor\u2019s subcontractors), any applicable mobilization or demobilization fees and any applicable cancellation fees"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "language": "en"
+}
